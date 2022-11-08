@@ -95,7 +95,8 @@ body{
 /* ############# SHOWCASE AREA STYLING ############# */
 .showcase-area{
     height: 50vh;
-    background-image: url("/Img/pexels-ella-olsson-1640777.jpg");
+/*     background-image: url("/Img/pexels-ella-olsson-1640777.jpg"); */
+    background-color:red;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
